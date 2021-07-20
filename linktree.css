@@ -1,0 +1,74 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.body {
+    background-color: rgb(78, 76, 76);
+    margin-top: 50px;
+}
+
+.main {
+     text-align: -webkit-center;
+}
+
+
+
+.profile-image {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(125, 218, 205);
+    border-radius: 50%;
+    text-align: center;
+}
+
+.material-icons {
+    margin-top: 10px;
+    font-size: 80px;
+}
+
+.titles {
+    text-align: center;
+}
+
+.name {
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.title {
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.form {
+        text-align: -webkit-center;
+}
+
+
+.button {
+    width: 250px;
+    height: 40px;
+    margin: 5px;
+    display: flex;
+    justify-content: start;
+}
+
+.text-button1 {
+    margin-left: 60px;
+     line-height: 40px;
+}
+
+.text-button2 {
+    margin-left: 70px;
+    line-height: 40px;
+}
+
+.image-button {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+
